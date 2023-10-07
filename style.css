@@ -41,6 +41,7 @@
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    padding: 0 10px;
 }
 form input.equal{
     width: 145px;
