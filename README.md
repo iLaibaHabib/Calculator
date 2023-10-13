@@ -1,1 +1,1 @@
-# iCalculate
+# Calculator
